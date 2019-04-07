@@ -1,4 +1,4 @@
-OX
+# OX
 
 This project is an implementation of the game called Five in a row, or Gomoku. (Or OX according to the shape of the symbols used in the game.)
 
